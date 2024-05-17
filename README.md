@@ -4,7 +4,7 @@
 
 **`Software Developer`**
 
-I'm a full-stack developer and student, or at least I try to be. Trying to learn all I can about coding.
+I'm a developer and student, or at least I try to be. Trying to learn all I can about coding. I'm most familiar with Java and React.
 This is my digital playground and portfolio as a student of Applied Computer Science at HoGent. 
 Here, you'll find a collection of my personal projects.
 
