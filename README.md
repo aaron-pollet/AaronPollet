@@ -5,6 +5,8 @@
 **`Software Developer`**
 
 I'm a full-stack developer and student, or at least I try to be. Trying to learn all I can about coding.
+This is my digital playground and portfolio as a student of Applied Computer Science at HoGent. 
+Here, you'll find a collection of my personal projects.
 
 ## 📫 Let's Connect
 
