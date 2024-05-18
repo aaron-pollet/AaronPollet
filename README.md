@@ -1,6 +1,6 @@
 <br />
 
-# I'm [Aaron Pollet] 👋
+# I'm {Aaron} 👋
 
 **`Software Developer`**
 
